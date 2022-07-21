@@ -1,7 +1,7 @@
 ### Olá, sou Rodrigo Koshiyama 👋
 
 - 🔭 Hoje eu trabalho na área de Tech Risk
-- 🌱 Estudando React/React Native/Node
+- 🌱 Estudando Ansible e AWS
 
 <div align="center">
   <a href="https://github.com/Koshiyy">
